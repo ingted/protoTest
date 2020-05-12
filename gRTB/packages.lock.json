@@ -8,6 +8,12 @@
         "resolved": "3.12.0-rc1",
         "contentHash": "b4IAtiLLWmgSXjVGTBApZCYP6D4+ptTFW5j67gYpILxbYoOHErNU3lYo8KoSIuLnrTX8qLBduy5HnOvIGzCr0A=="
       },
+      "Newtonsoft.Json": {
+        "type": "Direct",
+        "requested": "[12.0.3, 12.0.3]",
+        "resolved": "12.0.3",
+        "contentHash": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg=="
+      },
       "System.Buffers": {
         "type": "Direct",
         "requested": "[4.4.0, 4.4.0]",

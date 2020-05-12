@@ -1,0 +1,209 @@
+{
+    "adslot": [
+        {
+            "adBlockKey": "1",
+            "allowedAdTypes": [
+                "ALLOWED_AD_TYPE_BANNER"
+            ],
+            "allowedVendorType": [
+                445,
+                785,
+                767,
+                4513,
+                474,
+                776,
+                237,
+                566,
+                138,
+                4648,
+                485,
+                550,
+                4374,
+                4651,
+                79,
+                523,
+                780,
+                144,
+                489,
+                4680,
+                331,
+                797,
+                342,
+                698,
+                414,
+                238,
+                745,
+                704,
+                828,
+                4697
+            ],
+            "ampAdRequestType": "NON_AMP_PAGE",
+            "clickThroughRate": 0.007334242,
+            "excludedAttribute": [
+                7,
+                16,
+                15,
+                14,
+                13,
+                30,
+                48,
+                22,
+                20,
+                19,
+                18,
+                27,
+                26,
+                70,
+                17,
+                25,
+                34
+            ],
+            "height": [
+                50,
+                667,
+                640,
+                604,
+                592,
+                570,
+                568,
+                600,
+                480,
+                400
+            ],
+            "id": 1,
+            "matchingAdData": [
+                {
+                    "billingId": [
+                        "23716817957"
+                    ],
+                    "minimumCpmMicros": "230000",
+					"direct_deal": [{
+						"direct_deal_id":9487,
+						"fixed_cpm_micros": 1290000,
+						"deal_type": 1
+					}]
+                }
+            ],
+            "publisherSettingsListId": [
+                "15431485733333031123"
+            ],
+            "renderer": "GOOGLE",
+            "sessionDepth": -1,
+            "slotVisibility": "ABOVE_THE_FOLD",
+            "stickySettings": {
+            },
+            "videoCompletionRate": -1,
+            "viewability": 93,
+            "width": [
+                320,
+                375,
+                360,
+                360,
+                360,
+                320,
+                320,
+                300,
+                320,
+                240
+            ]
+        }
+    ],
+    "auctionType": "SECOND_PRICE",
+    "cookieAgeSeconds": 28512000,
+    "cookieVersion": 1,
+    "detectedContentLabel": [
+        39
+    ],
+    "detectedLanguage": [
+        "zh_CN"
+    ],
+    "detectedVertical": [
+        {
+            "id": 498,
+            "weight": 0.365964174
+        },
+        {
+            "id": 1461,
+            "weight": 0.365964174
+        },
+        {
+            "id": 224,
+            "weight": 0.133832172
+        },
+        {
+            "id": 342,
+            "weight": 0.06819009
+        },
+        {
+            "id": 341,
+            "weight": 0.0660494
+        }
+    ],
+    "device": {
+        "brand": "samsung",
+        "deviceType": "HIGHEND_PHONE",
+        "model": "sm-g9550",
+        "osVersion": {
+            "major": 8,
+            "micro": -1,
+            "minor": -1
+        },
+        "platform": "android",
+        "screenHeight": 50,
+        "screenOrientation": "PORTRAIT",
+        "screenWidth": 320
+    },
+    "encryptedHyperlocalSet": "XdyZxAAFi/wKvV0KAg7NP5LX9pX47NFbMgr6l6gK0eByERhyZTp5R5A92ky4ACK2f6ZdJY/OuDwUcAAaLrl7ed82HB+RVWNJGseyV6ERkIQAAXO/A0wo",
+    "geoCriteriaId": 9061592,
+    "googleUserId": "CAESEFcMcK3ol5RmxnV-U_j_4iQ",
+    "hyperlocalSet": {
+        "centerPoint": {
+            "latitude": 22.4821243,
+            "longitude": 114.13176
+        },
+        "hyperlocal": [
+            {
+                "corners": [
+                    {
+                        "latitude": 22.469017,
+                        "longitude": 114.119476
+                    },
+                    {
+                        "latitude": 22.469017,
+                        "longitude": 114.144051
+                    },
+                    {
+                        "latitude": 22.4952316,
+                        "longitude": 114.144051
+                    },
+                    {
+                        "latitude": 22.4952316,
+                        "longitude": 114.119476
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "XdyZxAAGRWAKvWIF5gLumQ==",
+    "ip": "KmJI",
+    "mobile": {
+        "advertisingId": "rD5ayS5oQ0Otp/ZdOuHssw==",
+        "appCategoryIds": [
+            60000,
+            69500
+        ],
+        "appId": "com.pdf.viewer.pdftool.reader.document",
+        "appName": "PDF Reader for Android",
+        "appRating": 4.3048625,
+        "encryptedAdvertisingId": "XdyZxAAFi/wKvV0KAQ7NP/THWl9rxFis8Vh8wU+iG/mo8hI5",
+        "isApp": true
+    },
+    "partnerId": "6943920335042357714",
+    "publisherCountry": "VN",
+    "publisherSettingsListId": "6943920335042357714",
+    "publisherType": "GOOGLE_REPRESENTED",
+    "sellerNetworkId": 1,
+    "timezoneOffset": 480,
+    "url": "https://play.google.com/store/apps/details?id=com.pdf.viewer.pdftool.reader.document",
+    "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G9550 Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36 (Mobile; afma-sdk-a-v19629019.19629019.0)"
+}
