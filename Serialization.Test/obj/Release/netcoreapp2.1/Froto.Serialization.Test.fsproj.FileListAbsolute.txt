@@ -1,0 +1,17 @@
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.Test.deps.json
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.Test.runtimeconfig.json
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.Test.runtimeconfig.dev.json
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.Test.dll
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.Test.pdb
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.dll
+Z:\froto\Serialization.Test\bin\Release\netcoreapp2.1\Froto.Serialization.pdb
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.fsprojAssemblyReference.cache
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.AssemblyInfoInputs.cache
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.AssemblyInfo.fs
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.fsproj.CopyComplete
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.dll
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.pdb
+Z:\froto\Serialization.Test\obj\Release\netcoreapp2.1\Froto.Serialization.Test.genruntimeconfig.cache

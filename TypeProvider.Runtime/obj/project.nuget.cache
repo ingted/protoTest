@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "og5S+uyjBjfUj2DRhDVrnv0dmh7KorfWNODJLuFKMTwaVF45SJoShy84vaEJ34GDbpajCi7RsOsnTChkSZgNog==",
+  "success": true,
+  "projectFilePath": "Z:\\froto\\TypeProvider.Runtime\\Froto.TypeProvider.Runtime.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anibal\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0-beta2-19367-01\\microsoft.build.tasks.git.1.0.0-beta2-19367-01.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0-beta2-19367-01\\microsoft.sourcelink.common.1.0.0-beta2-19367-01.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0-beta2-19367-01\\microsoft.sourcelink.github.1.0.0-beta2-19367-01.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\nerdbank.gitversioning\\3.1.6-beta\\nerdbank.gitversioning.3.1.6-beta.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

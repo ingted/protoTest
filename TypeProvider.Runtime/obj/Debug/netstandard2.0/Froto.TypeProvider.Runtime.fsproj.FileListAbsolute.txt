@@ -1,0 +1,12 @@
+Z:\froto\TypeProvider.Runtime\bin\Debug\netstandard2.0\Froto.TypeProvider.Runtime.deps.json
+Z:\froto\TypeProvider.Runtime\bin\Debug\netstandard2.0\Froto.TypeProvider.Runtime.dll
+Z:\froto\TypeProvider.Runtime\bin\Debug\netstandard2.0\Froto.TypeProvider.Runtime.pdb
+Z:\froto\TypeProvider.Runtime\bin\Debug\netstandard2.0\Froto.Serialization.dll
+Z:\froto\TypeProvider.Runtime\bin\Debug\netstandard2.0\Froto.Serialization.pdb
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.fsprojAssemblyReference.cache
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.sourcelink.json
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.AssemblyInfoInputs.cache
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.AssemblyInfo.fs
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.fsproj.CopyComplete
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.dll
+Z:\froto\TypeProvider.Runtime\obj\Debug\netstandard2.0\Froto.TypeProvider.Runtime.pdb

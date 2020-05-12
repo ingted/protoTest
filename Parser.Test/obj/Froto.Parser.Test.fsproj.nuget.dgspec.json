@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\froto\\Parser.Test\\Froto.Parser.Test.fsproj": {}
+  },
+  "projects": {
+    "Z:\\froto\\Parser.Test\\Froto.Parser.Test.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\froto\\Parser.Test\\Froto.Parser.Test.fsproj",
+        "projectName": "Froto.Parser.Test",
+        "projectPath": "Z:\\froto\\Parser.Test\\Froto.Parser.Test.fsproj",
+        "packagesPath": "C:\\Users\\anibal\\.nuget\\packages\\",
+        "outputPath": "Z:\\froto\\Parser.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "Z:\\froto\\NuGet.Config",
+          "C:\\Users\\anibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "Z:\\froto\\Parser\\Froto.Parser.fsproj": {
+                "projectPath": "Z:\\froto\\Parser\\Froto.Parser.fsproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true",
+          "restoreLockedMode": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
+            },
+            "FsUnit.Xunit": {
+              "target": "Package",
+              "version": "[3.4.0, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "Unquote": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "generatePathProperty": true
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\froto\\Parser\\Froto.Parser.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\froto\\Parser\\Froto.Parser.fsproj",
+        "projectName": "Froto.Parser",
+        "projectPath": "Z:\\froto\\Parser\\Froto.Parser.fsproj",
+        "packagesPath": "C:\\Users\\anibal\\.nuget\\packages\\",
+        "outputPath": "Z:\\froto\\Parser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "Z:\\froto\\NuGet.Config",
+          "C:\\Users\\anibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true",
+          "restoreLockedMode": true
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FParsec": {
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.5.2, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-beta2-19367-01, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "Nerdbank.GitVersioning": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6-beta, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

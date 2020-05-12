@@ -1,0 +1,9 @@
+Z:\froto\Parser\bin\Debug\netstandard2.0\Froto.Parser.deps.json
+Z:\froto\Parser\bin\Debug\netstandard2.0\Froto.Parser.dll
+Z:\froto\Parser\bin\Debug\netstandard2.0\Froto.Parser.pdb
+Z:\froto\Parser\obj\Debug\netstandard2.0\Froto.Parser.fsprojAssemblyReference.cache
+Z:\froto\Parser\obj\Debug\netstandard2.0\Froto.Parser.sourcelink.json
+Z:\froto\Parser\obj\Debug\netstandard2.0\Froto.Parser.AssemblyInfoInputs.cache
+Z:\froto\Parser\obj\Debug\netstandard2.0\Froto.Parser.AssemblyInfo.fs
+Z:\froto\Parser\obj\Debug\netstandard2.0\Froto.Parser.dll
+Z:\froto\Parser\obj\Debug\netstandard2.0\Froto.Parser.pdb

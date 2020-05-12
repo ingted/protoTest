@@ -1,0 +1,9 @@
+Z:\froto\Serialization\bin\Debug\netstandard2.0\Froto.Serialization.deps.json
+Z:\froto\Serialization\bin\Debug\netstandard2.0\Froto.Serialization.dll
+Z:\froto\Serialization\bin\Debug\netstandard2.0\Froto.Serialization.pdb
+Z:\froto\Serialization\obj\Debug\netstandard2.0\Froto.Serialization.fsprojAssemblyReference.cache
+Z:\froto\Serialization\obj\Debug\netstandard2.0\Froto.Serialization.sourcelink.json
+Z:\froto\Serialization\obj\Debug\netstandard2.0\Froto.Serialization.AssemblyInfoInputs.cache
+Z:\froto\Serialization\obj\Debug\netstandard2.0\Froto.Serialization.AssemblyInfo.fs
+Z:\froto\Serialization\obj\Debug\netstandard2.0\Froto.Serialization.dll
+Z:\froto\Serialization\obj\Debug\netstandard2.0\Froto.Serialization.pdb

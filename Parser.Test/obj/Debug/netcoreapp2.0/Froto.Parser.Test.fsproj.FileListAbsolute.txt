@@ -1,0 +1,17 @@
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.Test.deps.json
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.Test.runtimeconfig.json
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.Test.runtimeconfig.dev.json
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.Test.dll
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.Test.pdb
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.dll
+Z:\froto\Parser.Test\bin\Debug\netcoreapp2.0\Froto.Parser.pdb
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.fsprojAssemblyReference.cache
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.AssemblyInfoInputs.cache
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.AssemblyInfo.fs
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.fsproj.CopyComplete
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.dll
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.pdb
+Z:\froto\Parser.Test\obj\Debug\netcoreapp2.0\Froto.Parser.Test.genruntimeconfig.cache

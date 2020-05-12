@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="TestParser.fs" />
+    <Compile Include="TestClassModel.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parser\Froto.Parser.fsproj" />
+    <PackageReference Update="FSharp.Core" Version="4.7.0" />
+    <PackageReference Include="Unquote" Version="5.0.0" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="FsUnit.Xunit" Version="3.4.0" />
+  </ItemGroup>
+</Project>

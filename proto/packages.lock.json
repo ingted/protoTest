@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.7.2": {
+      "FSharp.Core": {
+        "type": "Direct",
+        "requested": "[4.7.0, 4.7.0]",
+        "resolved": "4.7.0",
+        "contentHash": "6Bf2qzSCaJoP6tTfO+a5muUS7QbyJANqSut73zQvwQ9It5P0ITz9VKseeia2ofco30c55EQ0jA2wf2+A2gpGnw=="
+      },
+      "Google.Protobuf": {
+        "type": "Direct",
+        "requested": "[3.12.0-rc1, 3.12.0-rc1]",
+        "resolved": "3.12.0-rc1",
+        "contentHash": "b4IAtiLLWmgSXjVGTBApZCYP6D4+ptTFW5j67gYpILxbYoOHErNU3lYo8KoSIuLnrTX8qLBduy5HnOvIGzCr0A=="
+      },
+      "Google.Protobuf.Tools": {
+        "type": "Direct",
+        "requested": "[3.12.0-rc1, 3.12.0-rc1]",
+        "resolved": "3.12.0-rc1",
+        "contentHash": "H6x1lkWyHpDgERQAheoa0hcwPk62DZE1yBLTTCW2ESWzA/26ebMVPck90KT+JgWQ/V0vGXOPxaECbXLFm/0daA=="
+      },
+      "Newtonsoft.Json": {
+        "type": "Direct",
+        "requested": "[12.0.3, 12.0.3]",
+        "resolved": "12.0.3",
+        "contentHash": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg=="
+      },
+      "System.Buffers": {
+        "type": "Direct",
+        "requested": "[4.4.0, 4.4.0]",
+        "resolved": "4.4.0",
+        "contentHash": "AwarXzzoDwX6BgrhjoJsk6tUezZEozOT5Y9QKF94Gl4JK91I4PIIBkBco9068Y9/Dra8Dkbie99kXB8+1BaYKw=="
+      },
+      "System.Memory": {
+        "type": "Direct",
+        "requested": "[4.5.2, 4.5.2]",
+        "resolved": "4.5.2",
+        "contentHash": "fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg=="
+      },
+      "System.Numerics.Vectors": {
+        "type": "Direct",
+        "requested": "[4.4.0, 4.4.0]",
+        "resolved": "4.4.0",
+        "contentHash": "UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ=="
+      },
+      "System.Runtime.CompilerServices.Unsafe": {
+        "type": "Direct",
+        "requested": "[4.5.2, 4.5.2]",
+        "resolved": "4.5.2",
+        "contentHash": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ=="
+      },
+      "System.ValueTuple": {
+        "type": "Direct",
+        "requested": "[4.4.0, 4.4.0]",
+        "resolved": "4.4.0",
+        "contentHash": "BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ=="
+      }
+    }
+  }
+}

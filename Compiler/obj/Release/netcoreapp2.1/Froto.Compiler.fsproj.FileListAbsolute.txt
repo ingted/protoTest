@@ -1,0 +1,16 @@
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Compiler.dll.config
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Compiler.deps.json
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Compiler.runtimeconfig.json
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Compiler.runtimeconfig.dev.json
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Compiler.dll
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Compiler.pdb
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Parser.dll
+Z:\froto\Compiler\bin\Release\netcoreapp2.1\Froto.Parser.pdb
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.fsprojAssemblyReference.cache
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.sourcelink.json
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.AssemblyInfoInputs.cache
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.AssemblyInfo.fs
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.fsproj.CopyComplete
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.dll
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.pdb
+Z:\froto\Compiler\obj\Release\netcoreapp2.1\Froto.Compiler.genruntimeconfig.cache

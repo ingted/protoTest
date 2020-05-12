@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="TestZeroCopyBuffer.fs" />
+    <Compile Include="TestWireFormat.fs" />
+    <Compile Include="TestUtility.fs" />
+    <Compile Include="TestEncoding.fs" />
+    <Compile Include="TestSerialization.fs" />
+    <Compile Include="TestClassSerialization.fs" />
+    <Compile Include="ExampleProtoRecord.fs" />
+    <Compile Include="ExampleProtoClass.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Serialization\Froto.Serialization.fsproj" />
+    <PackageReference Update="FSharp.Core" Version="4.7.0" />
+    <PackageReference Include="Unquote" Version="5.0.0" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="FsUnit.Xunit" Version="3.4.0" />
+  </ItemGroup>
+</Project>
